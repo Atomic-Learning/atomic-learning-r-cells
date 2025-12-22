@@ -1,22 +1,17 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Atomic Learning: R Cells",
+    "slug": "atomic-learning-r-cells",
+    "description": "An introduction to running R Cells in the Atomic Learning platform.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "atomic-learning",
+        "r"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
     ],
     "related": [
-        "",
-        ""
     ]
 }
