@@ -1,8 +1,11 @@
 <r-cell>
-print("Hello, World!")
-y= 1 + 1
+# R vector and factor examples
+numbers <- c(1, 2, 3, 4, NA)
+mean_val <- mean(numbers, na.rm = TRUE)
+pet_types <- factor(c("cat", "dog", "dog", "cat", "parrot"))
 </r-cell>
 
 <r-cell>
-print(y)
+print(mean_val)
+print(summary(pet_types))
 </r-cell>
